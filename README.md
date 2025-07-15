@@ -1,7 +1,7 @@
 # carlson-2024-JNP-plx-ethanol
 
 ## Overview 
-This repository contains data and code used for the analyses presented in the manuscript titled "Pharmacological depletion of microglia protects from alcohol-induced corticolimbic neurodegeneration in male rats" (Carlson, Melbourne, and Nixon, in submission, *Journal of Neuroimmune Pharmacology*).
+This repository contains data and code used for the analyses presented in the manuscript titled "Pharmacological depletion of microglia protects from alcohol-induced corticolimbic neurodegeneration in male rats" (Carlson, Melbourne, and Nixon, 2025, *Journal of Neuroimmune Pharmacology*).
 
 The RMarkdown document titled "MGD_Analyses.Rmd" includes R code to:
 - Read cell count (Iba1+ for microglia or FJB+ for dying neurons) data
